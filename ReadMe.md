@@ -4,6 +4,9 @@ Links to slides to talks at the 2016
 [Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2016/)
 in Chicago, Illinois.
 
+Pull requests welcome! Or add an issue, or tweet or email
+[@kwbroman](https://twitter.com/kwbroman).
+
 ## Sunday, 31 July
 
 ### 2:00pm - 3:50pm
