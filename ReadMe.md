@@ -68,6 +68,9 @@ Pull requests welcome! Or add an issue, or tweet
 - [Karl Broman](http://kbroman.org), [@kwbroman](https://twitter.com/kwbroman),
 [Steps Toward Reproducible Research](http://bit.ly/jsm2016)
 
+- [Mine &Ccedil;etinkaya-Rundel](http://www2.stat.duke.edu/~mc301/),
+[@minebocek](https://twitter.com/minebocek)
+[Integrating reproducibility into the undergraduate statistics curriculum](https://github.com/mine-cetinkaya-rundel/2016-08-03-reproducible-undergrad-stats)
 
 ---
 
