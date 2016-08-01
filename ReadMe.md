@@ -33,6 +33,11 @@ Pull requests welcome! Or add an issue, or tweet
 - Nicholas Horton, [@askdrstats](https://twitter.com/askdrstats),
 [Thinking with Data using R and RStudio: powerful idioms for analysts](https://github.com/Amherst-Statistics/JSM2016-thinkwithR)
 
+#### [69 Novel Methods in Causal and Mediation Analysis](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212850)
+
+- Julian Wolfson, [@DrJWolfson](https://twitter.com/drjwolfson),
+[Treatment Effect Heterogeneity Trees](https://drive.google.com/uc?export=download&id=0B7tyIRgneHdbVFAtd3UxeldlV00)
+
 #### [74 Estimation and Learning in Graphical Models](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212918)
 
 - Andee Kaplan, [@andeekaplan](https://twitter.com/andeekaplan),
