@@ -13,6 +13,9 @@ in Chicago, Illinois.
 - Skipper Seabold, [@jseabold](https://twitter.com/jseabold),
 [Having an impact as a modern statistician: Lessons from Software Engineering](https://speakerdeck.com/jseabold/having-an-impact-as-a-modern-statistician)
 
+- Jake VanderPlas, [@jakevdp](https://twitter.com/jakevdp),
+[Python's Data Science Stack](https://speakerdeck.com/jakevdp/pythons-data-science-stack-jsm-2016)
+
 - [Dirk Eddelbuettel](http://dirk.eddelbuettel.com/), [@eddelbuettel](https://twitter.com/eddelbuettel),
 [If You Can't Beat 'Em...](http://dirk.eddelbuettel.com/papers/jsm2016_rcpp_talk.pdf)
 
