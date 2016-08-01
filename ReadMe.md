@@ -47,7 +47,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Monday, 1 August
 
-### 10:30am - 12:20PM
+### 10:30am - 12:20pm
 
 #### [142 The Extraordinary Impacts of Statistics in Genomics and Genetics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212335)
 
