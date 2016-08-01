@@ -8,7 +8,7 @@ in Chicago, Illinois.
 
 ### 2:00pm - 3:50pm
 
-#### [6 Open Source Statistical Software for Data Science](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212387), 2:00pm -3:50pm
+#### [6 Open Source Statistical Software for Data Science](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212387)
 
 - Skipper Seabold, [@jseabold](https://twitter.com/jseabold),
 [Having an impact as a modern statistician: Lessons from Software Engineering](https://speakerdeck.com/jseabold/having-an-impact-as-a-modern-statistician)
