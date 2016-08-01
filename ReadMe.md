@@ -21,6 +21,11 @@ in Chicago, Illinois.
 
 ### 4:00pm - 5:50pm
 
+#### [74 Estimation and Learning in Graphical Models](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212918)
+
+- Andee Kaplan, [@andeekaplan](https://twitter.com/andeekaplan),
+[An exposition on the propriety of restricted Boltzmann machines](http://andeekaplan.com/rbm/presentations/jsm2016/)
+
 #### [78 For the Love of the Game: Applications of Statistics in Sports](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212986)
 
 - Brandon LeBeau, [@blebeau11](https://twitter.com/@blebeau11),
