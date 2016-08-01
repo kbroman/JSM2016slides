@@ -24,6 +24,11 @@ in Chicago, Illinois.
 
 ### 4:00pm - 5:50pm
 
+#### [47 Making the Most of R Tools](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212343)
+
+- Nicholas Horton, [@askdrstats](https://twitter.com/askdrstats),
+[Thinking with Data using R and RStudio: powerful idioms for analysts](https://github.com/Amherst-Statistics/JSM2016-thinkwithR)
+
 #### [74 Estimation and Learning in Graphical Models](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212918)
 
 - Andee Kaplan, [@andeekaplan](https://twitter.com/andeekaplan),
