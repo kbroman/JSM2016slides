@@ -37,6 +37,13 @@ in Chicago, Illinois.
 
 ## Wednesday, 3 August
 
+### 8:30am - 10:20am
+
+#### [475 Reproducibility in Statistics and Data Science ](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212538)
+
+- [Karl Broman](http://kbroman.org), [@kwbroman](https://twitter.com/kwbroman),
+[Steps Toward Reproducible Research](http://bit.ly/jsm2016)
+
 
 ---
 
