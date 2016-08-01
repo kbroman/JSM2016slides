@@ -51,7 +51,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 #### [142 The Extraordinary Impacts of Statistics in Genomics and Genetics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212335)
 
-- [John Storey](http://genomine.org/), [@storeylab](https://github.com/storeylab)
+- [John Storey](http://genomine.org/), [@storeylab](https://github.com/storeylab),
 [Latent Variable Methods for the Analysis of Genomic Data](http://genomine.org/talks/jsm_2016.pdf)
 
 
