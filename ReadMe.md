@@ -47,6 +47,13 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Monday, 1 August
 
+### 10:30am - 12:20PM
+
+#### [142 The Extraordinary Impacts of Statistics in Genomics and Genetics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212335)
+
+- [John Storey](http://genomine.org/), [@storeylab](https://github.com/storeylab)
+[Latent Variable Methods for the Analysis of Genomic Data](http://genomine.org/talks/jsm_2016.pdf)
+
 
 ---
 
