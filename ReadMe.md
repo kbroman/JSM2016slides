@@ -52,6 +52,12 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Monday, 1 August
 
+### 8:30am - 10:25am
+
+#### [135 Advanced Methods for Statistics in Sports](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212985)
+
+- Sameer Deshpande, [A Bayesian Hierarchical Model of Pitch Framing in Major League Baseball](http://stat.wharton.upenn.edu/~dsameer/pitchFraming/deshpande_jsm2016.pdf)
+
 ### 10:30am - 12:20pm
 
 #### [142 The Extraordinary Impacts of Statistics in Genomics and Genetics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212335)
