@@ -61,6 +61,10 @@ Pull requests welcome! Or add an issue, or tweet
 
 #### [475 Reproducibility in Statistics and Data Science ](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212538)
 
+- [Jenny Bryan](http://stat545.com), [@jennybryan](https://twitter.com/jennybryan),
+[Reproducibility for All and Our Love/Hate Relationship with Spreadsheets](https://github.com/jennybc/2016-06_spreadsheets#readme)
+
+
 - [Karl Broman](http://kbroman.org), [@kwbroman](https://twitter.com/kwbroman),
 [Steps Toward Reproducible Research](http://bit.ly/jsm2016)
 
