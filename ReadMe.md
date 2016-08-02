@@ -95,6 +95,13 @@ Pull requests welcome! Or add an issue, or tweet
 ## Tuesday, 2 August
 
 
+### 10:30am - 12:20pm
+
+#### [332 Doing More with Data in and Outside the Undergraduate Classroom](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212444)
+
+- Colin Rundel, [@rundel](https://twitter.com/rundel),
+[Statistical computing as an introduction to data science](https://github.com/rundel/Presentations/tree/master/JSM%202016)
+
 ---
 
 ## Wednesday, 3 August
