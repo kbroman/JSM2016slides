@@ -71,10 +71,17 @@ Pull requests welcome! Or add an issue, or tweet
 
 ### 2:00pm - 3:50pm
 
+#### [228 The Extraordinary Power of Statistical Collaboration](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212605)
+
+- [Eric Vance](http://ervance.com), [@ervance](https://twitter.com/ervance)
+[The Extraordinary Potential of Statistical Collaboration Laboratories](https://prezi.com/dpiwuz7pep45/2016jsmeposcl/)
+
 #### [247 Toward Better Communication of Information with Statistical Graphics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212912)
 
 - [Susan VanderPlas](http://srvanderplas.github.io), [@srvanderplas](https://twitter.com/srvanderplas),
 [Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics](https://srvanderplas.github.io/Presentations/JSM2016/HierarchyOfVisualFeatures.html#/)
+
+
 
 ---
 
