@@ -33,6 +33,11 @@ Pull requests welcome! Or add an issue, or tweet
 - Nicholas Horton, [@askdrstats](https://twitter.com/askdrstats),
 [Thinking with Data using R and RStudio: powerful idioms for analysts](https://github.com/Amherst-Statistics/JSM2016-thinkwithR)
 
+#### [51 Media and Statistics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212366)
+
+- Julie Rehmeyer, [@julierehmeyer](https://twitter.com/julierehmeyer),
+[Bad statistics, bad reporting, bad impact on patients: The story of the PACE trial](http://www.slideshare.net/JulieRehmeyer/bad-statistics-bad-reporting-bad-impact-on-patients-the-story-of-the-pace-trial)
+
 #### [69 Novel Methods in Causal and Mediation Analysis](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212850)
 
 - Julian Wolfson, [@DrJWolfson](https://twitter.com/drjwolfson),
@@ -50,7 +55,6 @@ Pull requests welcome! Or add an issue, or tweet
 
 - Gregory Matthews, [@StatsInTheWild](https://twitter.com/StatsInTheWild),
 [An Examination of Statistical Disclosure Issues Related to Publication of Aggregate Statistics in the Presence of a Known Subset of the Data Set Using Baseball Hall of Fame Ballots](https://dl.dropboxusercontent.com/u/35094868/SlidesForTalk.pdf)
-
 
 
 ---
@@ -101,7 +105,6 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Jenny Bryan](http://stat545.com), [@jennybryan](https://twitter.com/jennybryan),
 [Reproducibility for All and Our Love/Hate Relationship with Spreadsheets](https://github.com/jennybc/2016-06_spreadsheets#readme)
-
 
 - [Karl Broman](http://kbroman.org), [@kwbroman](https://twitter.com/kwbroman),
 [Steps Toward Reproducible Research](http://bit.ly/jsm2016)
