@@ -73,7 +73,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 #### [247 Toward Better Communication of Information with Statistical Graphics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212912)
 
-- Susan VanderPlas, [@srvanderplas](https://twitter.com/srvanderplas),
+- [Susan VanderPlas](http://srvanderplas.github.io), [@srvanderplas](https://twitter.com/srvanderplas),
 [Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics](https://srvanderplas.github.io/Presentations/JSM2016/HierarchyOfVisualFeatures.html#/)
 
 ---
