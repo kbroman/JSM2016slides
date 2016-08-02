@@ -48,6 +48,11 @@ Pull requests welcome! Or add an issue, or tweet
 - Brandon LeBeau, [@blebeau11](https://twitter.com/@blebeau11),
 [Estimating NCAA Football Coaches’ Abilities An Application of Item Response Theory](http://educate-r.org/2016/07/31/jsm2016.html)
 
+- Gregory Matthews, [@StatsInTheWild](https://twitter.com/StatsInTheWild),
+[An Examination of Statistical Disclosure Issues Related to Publication of Aggregate Statistics in the Presence of a Known Subset of the Data Set Using Baseball Hall of Fame Ballots](https://dl.dropboxusercontent.com/u/35094868/SlidesForTalk.pdf)
+
+
+
 ---
 
 ## Monday, 1 August
@@ -80,8 +85,6 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Susan VanderPlas](http://srvanderplas.github.io), [@srvanderplas](https://twitter.com/srvanderplas),
 [Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics](https://srvanderplas.github.io/Presentations/JSM2016/HierarchyOfVisualFeatures.html#/)
-
-
 
 ---
 
