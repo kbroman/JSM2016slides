@@ -99,7 +99,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 #### [332 Doing More with Data in and Outside the Undergraduate Classroom](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212444)
 
-- Colin Rundel, [@rundel](https://twitter.com/rundel),
+- [Colin Rundel](http://www2.stat.duke.edu/~cr173/), [@rundel](https://twitter.com/rundel),
 [Statistical computing as an introduction to data science](https://github.com/rundel/Presentations/tree/master/JSM%202016)
 
 ---
