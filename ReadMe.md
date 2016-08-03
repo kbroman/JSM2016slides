@@ -102,6 +102,13 @@ Pull requests welcome! Or add an issue, or tweet
 - [Colin Rundel](http://www2.stat.duke.edu/~cr173/), [@rundel](https://twitter.com/rundel),
 [Statistical computing as an introduction to data science](https://github.com/rundel/Presentations/tree/master/JSM%202016)
 
+### 2:00pm - 3:50pm
+
+#### [407 Interactive Visualizations and Web Applications for Analytics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212551)
+
+- [Yihui Xie](http://yihui.name/), [@xieyihui](https://twitter.com/xieyihui),
+[HTML Widgets: Interactive Visualizations from R Made Easy!](https://dl.dropboxusercontent.com/u/15335397/slides/2016-htmlwidgets-JSM-Yihui-Xie.html)
+
 ---
 
 ## Wednesday, 3 August
