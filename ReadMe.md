@@ -155,6 +155,11 @@ Pull requests welcome! Or add an issue, or tweet
 - David Risso, [@drisso1893](https://twitter.com/drisso1893),
 [Design and normalization of single-cell RNA-seq](http://rpubs.com/daviderisso/jsm2016)
 
+#### [600 When the Plot Is Not the End: Advances in Computing and Reasoning on Data Visualizations](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212826)
+
+- Barret Schloerke, [@schloerke](https://twitter.com/schloerke),
+[Cognostics: Metrics Enabling Detailed Interactive Visualization of Big Data](https://www.odrive.com/s/e2519606-0fc9-49ef-a058-5aadc88bebf5-57a2530e)
+
 ---
 
 ## Thursday, 4 August
