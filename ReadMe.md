@@ -142,6 +142,9 @@ Pull requests welcome! Or add an issue, or tweet
 [@minebocek](https://twitter.com/minebocek),
 [Integrating reproducibility into the undergraduate statistics curriculum](https://github.com/mine-cetinkaya-rundel/2016-08-03-reproducible-undergrad-stats)
 
+- [Yihui Xie](http://yihui.name/), [@xieyihui](https://twitter.com/xieyihui),
+[Reproducibility in Statistics and Data Science (Discussion)](https://dl.dropboxusercontent.com/u/15335397/slides/2016-repro-JSM-Yihui-Xie.html#(1))
+
 ---
 
 ## Thursday, 4 August
