@@ -117,6 +117,9 @@ Pull requests welcome! Or add an issue, or tweet
 
 #### [407 Interactive Visualizations and Web Applications for Analytics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212551)
 
+- [Carson Sievert](http://cpsievert.github.io/), [@cpsievert](https://twitter.com/cpsievert),
+[Interactive and Dynamic Web-Based Graphics for Data Analysis](http://bit.ly/JSM_16)
+
 - [Yihui Xie](http://yihui.name/), [@xieyihui](https://twitter.com/xieyihui),
 [HTML Widgets: Interactive Visualizations from R Made Easy!](https://dl.dropboxusercontent.com/u/15335397/slides/2016-htmlwidgets-JSM-Yihui-Xie.html)
 
