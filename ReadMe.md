@@ -26,6 +26,11 @@ Pull requests welcome! Or add an issue, or tweet
 - Mike Kane, [@kaneplusplus](https://twitter.com/kaneplusplus),
 [Grammars and Structures for Computing with Data](http://slides.com/michaelkane/deck-17#/)
 
+#### [33 Efficient Methods for Structured Large Genomics Data](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212892)
+
+- Xiang Zhu, [@zhumaimai](https://twitter.com/zhumaimai),
+[Bayesian large-scale multiple regression with summary statistics from genome-wide association studies](http://www.stat.uchicago.edu/~xiangzhu/JSM_20160731.pdf)
+
 ### 4:00pm - 5:50pm
 
 #### [47 Making the Most of R Tools](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212343)
