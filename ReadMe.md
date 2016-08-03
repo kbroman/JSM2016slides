@@ -43,6 +43,12 @@ Pull requests welcome! Or add an issue, or tweet
 - Julie Rehmeyer, [@julierehmeyer](https://twitter.com/julierehmeyer),
 [Bad statistics, bad reporting, bad impact on patients: The story of the PACE trial](http://www.slideshare.net/JulieRehmeyer/bad-statistics-bad-reporting-bad-impact-on-patients-the-story-of-the-pace-trial)
 
+#### [54 Recent Advances in Information Visualization](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212554)
+
+- Zan Armstrong, [zanstrong](https://twitter.com/zanstrong),
+[Visualizing Statistics "Mix Effects" and Simpson's Paradox](https://docs.google.com/presentation/d/1TC9986iqrAe4cBH77kP-2sAf_i-W0jnxM9ZnGWq2S0w/edit#slide=id.p)
+
+
 #### [69 Novel Methods in Causal and Mediation Analysis](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212850)
 
 - Julian Wolfson, [@DrJWolfson](https://twitter.com/drjwolfson),
