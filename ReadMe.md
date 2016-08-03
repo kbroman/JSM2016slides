@@ -45,7 +45,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 #### [54 Recent Advances in Information Visualization](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212554)
 
-- Zan Armstrong, [zanstrong](https://twitter.com/zanstrong),
+- [Zan Armstrong](http://blog.zanarmstrong.com/about/), [zanstrong](https://twitter.com/zanstrong),
 [Visualizing Statistics "Mix Effects" and Simpson's Paradox](https://docs.google.com/presentation/d/1TC9986iqrAe4cBH77kP-2sAf_i-W0jnxM9ZnGWq2S0w/edit#slide=id.p)
 
 
