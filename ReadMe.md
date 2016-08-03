@@ -148,6 +148,13 @@ Pull requests welcome! Or add an issue, or tweet
 - [Yihui Xie](http://yihui.name/), [@xieyihui](https://twitter.com/xieyihui),
 [Reproducibility in Statistics and Data Science (Discussion)](https://dl.dropboxusercontent.com/u/15335397/slides/2016-repro-JSM-Yihui-Xie.html#(1))
 
+### 2:00pm - 3:50pm
+
+#### [593 Batch Effects in Genomics Data](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212439)
+
+- David Risso, [@drisso1893](https://twitter.com/drisso1893),
+[Design and normalization of single-cell RNA-seq](http://rpubs.com/daviderisso/jsm2016)
+
 ---
 
 ## Thursday, 4 August
