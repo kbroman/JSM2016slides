@@ -155,6 +155,8 @@ Pull requests welcome! Or add an issue, or tweet
 - [Luke Tierney](http://homepage.divms.uiowa.edu/~luke/),
   [Some reflections on dynamic graphics for data exploration](http://homepage.divms.uiowa.edu/~luke/talks/jsm2016.pdf)
 
+  - [Video Library](http://stat-graphics.org/movies/), ASA Sections on Statistical Computing and
+    Statistical Graphics
 
 ### 2:00pm - 3:50pm
 
