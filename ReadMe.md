@@ -148,6 +148,11 @@ Pull requests welcome! Or add an issue, or tweet
 - [Yihui Xie](http://yihui.name/), [@xieyihui](https://twitter.com/xieyihui),
 [Reproducibility in Statistics and Data Science (Discussion)](https://dl.dropboxusercontent.com/u/15335397/slides/2016-repro-JSM-Yihui-Xie.html#(1))
 
+#### [492 SPEED: Advances in Survey Research Methodology](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=213155)
+
+- Stanislav Kolenikov, [@StatStas](https://twitter.com/StatStas),
+[Sampling with Minimal Strata Sample Size Requirements](https://github.com/skolenik/jsm2016slides)
+
 ### 10:30am - 12:20pm
 
 #### [526 The 2016 Statistical Computing and Graphics Award Honors William S. Cleveland](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212769)
