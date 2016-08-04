@@ -157,7 +157,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 #### [526 The 2016 Statistical Computing and Graphics Award Honors William S. Cleveland](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212769)
 
-- Dianne Cook, [@visnut](https://twitter.com/visnut), Modern Crowd-Sourcing Validates Cleveland's 1984 Hierarchy of Graphical Elements \[[survey](http://bit.ly/JSM-vis16) | [results](http://visiphilia.org/2016/08/03/CM-hierarchy)\]
+- [Dianne Cook](http://dicook.github.io/), [@visnut](https://twitter.com/visnut), Modern Crowd-Sourcing Validates Cleveland's 1984 Hierarchy of Graphical Elements \[[survey](http://bit.ly/JSM-vis16) | [results](http://visiphilia.org/2016/08/03/CM-hierarchy)\]
 
 - [Luke Tierney](http://homepage.divms.uiowa.edu/~luke/),
   [Some reflections on dynamic graphics for data exploration](http://homepage.divms.uiowa.edu/~luke/talks/jsm2016.pdf)
