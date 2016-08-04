@@ -131,6 +131,10 @@ Pull requests welcome! Or add an issue, or tweet
 
 ### 10:30am - 12:20pm
 
+#### [326 Controversies: Past, Present, and Future -- Statistical Issues in Reproducibility](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212307)
+
+- Fernando Martel Garcia, [Replication and the Manufacture of Scientific Inferences: A Formal Approach](https://dl.dropboxusercontent.com/u/15842577/presentation_amstat_Aug_2016b.pdf)
+
 #### [332 Doing More with Data in and Outside the Undergraduate Classroom](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212444)
 
 - [Colin Rundel](http://www2.stat.duke.edu/~cr173/), [@rundel](https://twitter.com/rundel),
