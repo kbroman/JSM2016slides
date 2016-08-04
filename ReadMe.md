@@ -148,6 +148,14 @@ Pull requests welcome! Or add an issue, or tweet
 - [Yihui Xie](http://yihui.name/), [@xieyihui](https://twitter.com/xieyihui),
 [Reproducibility in Statistics and Data Science (Discussion)](https://dl.dropboxusercontent.com/u/15335397/slides/2016-repro-JSM-Yihui-Xie.html#(1))
 
+### 10:30am - 12:20pm
+
+#### [526 The 2016 Statistical Computing and Graphics Award Honors William S. Cleveland](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212769)
+
+- [Luke Tierney](http://homepage.divms.uiowa.edu/~luke/),
+  [Some reflections on dynamic grpahics for data exploration](http://homepage.divms.uiowa.edu/~luke/talks/jsm2016.pdf)
+
+
 ### 2:00pm - 3:50pm
 
 #### [593 Batch Effects in Genomics Data](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212439)
