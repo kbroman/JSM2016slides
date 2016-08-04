@@ -103,6 +103,10 @@ Pull requests welcome! Or add an issue, or tweet
 - [John Storey](http://genomine.org/), [@storeylab](https://github.com/storeylab),
 [Latent Variable Methods for the Analysis of Genomic Data](http://genomine.org/talks/jsm_2016.pdf)
 
+- [Rafael Irizarry](http://rafalab.dfci.harvard.edu/), [@rafalab](https://github.com/rafalab),
+[Overcoming bias and batch effects in RNA-seq data](http://rafalab.github.io/talks/JSM-2016.pdf)
+\[[related paper on bioRxiv](http://www.biorxiv.org/content/early/2015/08/28/025767)\]
+
 #### [170 SPEED: Statistics for Education and Social Sciences Research](http://ww2.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=213158)
 
 - [Amelia McNamara](http://www.science.smith.edu/~amcnamara/), [@AmeliaMN](https://twitter.com/AmeliaMN), [	Pushing the Boundary Between Tools for Learning and for Doing Statistics](http://www.science.smith.edu/~amcnamara/JSM2016_PushingTheBoundary.pdf)
