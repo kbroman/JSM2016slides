@@ -153,7 +153,7 @@ Pull requests welcome! Or add an issue, or tweet
 #### [526 The 2016 Statistical Computing and Graphics Award Honors William S. Cleveland](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212769)
 
 - [Luke Tierney](http://homepage.divms.uiowa.edu/~luke/),
-  [Some reflections on dynamic grpahics for data exploration](http://homepage.divms.uiowa.edu/~luke/talks/jsm2016.pdf)
+  [Some reflections on dynamic graphics for data exploration](http://homepage.divms.uiowa.edu/~luke/talks/jsm2016.pdf)
 
 
 ### 2:00pm - 3:50pm
