@@ -150,6 +150,10 @@ Pull requests welcome! Or add an issue, or tweet
 - [Yihui Xie](http://yihui.name/), [@xieyihui](https://twitter.com/xieyihui),
 [HTML Widgets: Interactive Visualizations from R Made Easy!](https://dl.dropboxusercontent.com/u/15335397/slides/2016-htmlwidgets-JSM-Yihui-Xie.html)
 
+#### [418 Biometrics Section Student Paper Award Session 2](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?sessionid=212749)
+
+- [Keegan Korthauer](http://bcb.dfci.harvard.edu/~keegan/index.html), [@keegsdur](https://twitter.com/keegsdur), [scDD: A Statistical Approach for Identifying Differential Distributions in Single-Cell RNA-Seq Experiments](http://bcb.dfci.harvard.edu/~keegan/talks/JSM_2016_Korthauer_Session_418.pdf)
+
 ---
 
 ## Wednesday, 3 August
