@@ -76,6 +76,9 @@ Pull requests welcome! Or add an issue, or tweet
 
 #### [135 Advanced Methods for Statistics in Sports](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212985)
 
+- Scott Powers, [@saberpowers](https://twitter.com/saberpowers),
+[Nuclear Penalized Multinomial Regression for Predicting At-Bat Outcomes in Baseball](https://github.com/saberpowers/npmr/blob/master/slides/jsm2016.pdf)
+
 - Sameer Deshpande, [A Bayesian Hierarchical Model of Pitch Framing in Major League Baseball](http://stat.wharton.upenn.edu/~dsameer/pitchFraming/deshpande_jsm2016.pdf)
 
 ### 10:30am - 12:20pm
