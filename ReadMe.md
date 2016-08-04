@@ -82,7 +82,12 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Monday, 1 August
 
-### 8:30am - 10:25am
+### 8:30am - 10:20am
+
+#### [7 Applied Data Visualization in Industry and Journalism](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212543)
+
+- [Jeff Leek](http://jtleek.com), [@jtleek](https://twitter.com/jtleek),
+[Data Science as a Science](http://www.slideshare.net/jtleek/data-science-as-a-science)
 
 #### [135 Advanced Methods for Statistics in Sports](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212985)
 
