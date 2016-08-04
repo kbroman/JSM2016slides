@@ -26,6 +26,16 @@ Pull requests welcome! Or add an issue, or tweet
 - Mike Kane, [@kaneplusplus](https://twitter.com/kaneplusplus),
 [Grammars and Structures for Computing with Data](http://slides.com/michaelkane/deck-17#/)
 
+#### [26 Distinguishing Between Statistics Education for Undergraduate and Graduate Nonstatistics Major Students](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212717)
+
+- [Matt Hayat](http://publichealth.gsu.edu/profile/matt-hayat/), [Literature](http://bit.ly/MJHjsm2016)
+
+- [MyoungJin Kim](http://nursing.illinoisstate.edu/faculty-staff/profile.php?ulid=mkim2), [Technology](http://bit.ly/MJKjsm2016)
+
+- [Todd Schwartz](http://sph.unc.edu/adv_profile/todd-schwartz-drph/), [Datasets](http://bit.ly/TSjsm2016)
+
+- [Mike Jiroutek](http://www.campbell.edu/cphs/faculty/faculty-members/michael-r.-jiroutek), [Pedagogy](http://bit.ly/MRJjsm2016)
+
 #### [33 Efficient Methods for Structured Large Genomics Data](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212892)
 
 - Xiang Zhu, [@zhumaimai](https://twitter.com/zhumaimai),
@@ -125,6 +135,10 @@ Pull requests welcome! Or add an issue, or tweet
 ## Wednesday, 3 August
 
 ### 8:30am - 10:20am
+
+#### [465 Data Science for Health Policy: A Broad Tent ](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212330)
+
+- [Jenna Krall](http://jennakrall.com), [@kralljr](https://twitter.com/kralljr), [Identifying the Most Harmful Sources of Ambient Air Pollution to Better Protect Public Health](http://jennakrall.com/krall-jsm-2016.pdf)
 
 #### [475 Reproducibility in Statistics and Data Science ](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212538)
 
