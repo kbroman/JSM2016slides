@@ -202,3 +202,7 @@ Pull requests welcome! Or add an issue, or tweet
 ---
 
 ## Thursday, 4 August
+
+#### [652 Big Data and Data Science Education](http://ww2.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212899)
+
+- [Robin Lock](http://it.stlawu.edu/~rlock/), [DataSurfing on the World Wide Web: Part 2](http://myslu.stlawu.edu/~rlock/data2016.html) ([Part 1, from JSM 1996](http://it.stlawu.edu/~rlock/data96/))
