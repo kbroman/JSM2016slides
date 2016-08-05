@@ -188,7 +188,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Karthik Ram](http://karthik.io/),
   [@_inundata](twitter.com/_inundata),
-  [Enough with trickle down reproducibility: scientists, open this gate! scientists, tear down this wall!](http://inundata.org/talks/jsm2016)
+  [Enough with trickle down reproducibility: scientists, open this gate! scientists, tear down this wall!](http://inundata.org/talks/jsm2016) <a href="http://dx.doi.org/10.5281/zenodo.59737"><img src="https://zenodo.org/badge/doi/10.5281/zenodo.59737.svg" alt="10.5281/zenodo.59737"></a>
 
 - [Mine &Ccedil;etinkaya-Rundel](http://www2.stat.duke.edu/~mc301/),
 [@minebocek](https://twitter.com/minebocek),
