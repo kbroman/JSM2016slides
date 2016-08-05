@@ -144,6 +144,11 @@ Pull requests welcome! Or add an issue, or tweet
 - [Colin Rundel](http://www2.stat.duke.edu/~cr173/), [@rundel](https://twitter.com/rundel),
 [Statistical computing as an introduction to data science](https://github.com/rundel/Presentations/tree/master/JSM%202016)
 
+#### [352 SPEED: Advances in Biometrics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=213147)
+
+- [Jean V. Adams](https://profile.usgs.gov/jvadams), [@JeanVAdams](https://twitter.com/JeanVAdams),
+[Fish Cliques: Evidence of Social Groups from Sparse Observations in Time and Space?](https://speakerdeck.com/jvadams/fish-cliques-evidence-of-social-groups-from-sparse-observations-in-time-and-space)
+
 ### 2:00pm - 3:50pm
 
 #### [407 Interactive Visualizations and Web Applications for Analytics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212551)
@@ -157,6 +162,11 @@ Pull requests welcome! Or add an issue, or tweet
 #### [418 Biometrics Section Student Paper Award Session 2](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?sessionid=212749)
 
 - [Keegan Korthauer](http://bcb.dfci.harvard.edu/~keegan/index.html), [@keegsdur](https://twitter.com/keegsdur), [scDD: A Statistical Approach for Identifying Differential Distributions in Single-Cell RNA-Seq Experiments](http://bcb.dfci.harvard.edu/~keegan/talks/JSM_2016_Korthauer_Session_418.pdf)
+
+#### [451 SPEED: Advances in Biometrics, Part 2B](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=213218)
+
+- [Jean V. Adams](https://profile.usgs.gov/jvadams), [@JeanVAdams](https://twitter.com/JeanVAdams),
+[Fish Cliques: Evidence of Social Groups from Sparse Observations in Time and Space?](https://speakerdeck.com/jvadams/fish-cliques-evidence-of-social-groups-from-sparse-observations-in-time-and-space-1)
 
 ---
 
