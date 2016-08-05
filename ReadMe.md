@@ -220,6 +220,8 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Thursday, 4 August
 
+### 8:30am - 10:20am
+
 #### [632 Julia for Modern Statistical Computing](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212487)
 
 - [Josh Day](https://joshday.github.io), [OnlineStats.jl for Streaming and Big Data](https://github.com/joshday/OnlineStats_JSM2016)
