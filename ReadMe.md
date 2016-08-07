@@ -26,6 +26,11 @@ Pull requests welcome! Or add an issue, or tweet
 - Mike Kane, [@kaneplusplus](https://twitter.com/kaneplusplus),
 [Grammars and Structures for Computing with Data](http://slides.com/michaelkane/deck-17#/)
 
+#### [7 Statistical Learning of Health Care Systems](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212491)
+
+- Becky McNeil, [@biostatbecky](https://twitter.com/biostatbecky),
+[Two case studies of statistical approaches that simplify the VHA learning health care system](https://github.com/bmcneil/Presentations)
+
 #### [26 Distinguishing Between Statistics Education for Undergraduate and Graduate Nonstatistics Major Students](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212717)
 
 - [Matt Hayat](http://publichealth.gsu.edu/profile/matt-hayat/), [Literature](http://bit.ly/MJHjsm2016)
