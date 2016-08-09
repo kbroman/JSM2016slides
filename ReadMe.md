@@ -128,6 +128,11 @@ Pull requests welcome! Or add an issue, or tweet
 - [Susan VanderPlas](http://srvanderplas.github.io), [@srvanderplas](https://twitter.com/srvanderplas),
 [Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics](https://srvanderplas.github.io/Presentations/JSM2016/HierarchyOfVisualFeatures.html#/)
 
+#### [257 Motivating and Teaching Advanced Biostatistical Topics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=213006)
+
+- Pierre-J&eacute;r&ocirc;me Bergeron,
+  [Valar Morghulis: A Survival Analysis of a Song of Ice and Fire](https://dl.dropboxusercontent.com/u/38003000/bergeronJSM2016.pdf)
+
 ---
 
 ## Tuesday, 2 August
