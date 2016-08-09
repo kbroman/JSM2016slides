@@ -212,6 +212,10 @@ Pull requests welcome! Or add an issue, or tweet
 - Stanislav Kolenikov, [@StatStas](https://twitter.com/StatStas),
 [Sampling with Minimal Strata Sample Size Requirements](https://github.com/skolenik/jsm2016slides)
 
+#### [499 Statistical Learning Approaches to Biological Inference Problems](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212935)
+
+- [Neal Grantham](http://nsgrantham.github.io), [@nsgrantham](https://twitter.com/nsgrantham), [Deep Spatial Learning for Forensic Geolocation with Microbiome Data](http://nsgrantham.github.io/documents/jsm-2016.pdf)
+
 ### 10:30am - 12:20pm
 
 #### [526 The 2016 Statistical Computing and Graphics Award Honors William S. Cleveland](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212769)
