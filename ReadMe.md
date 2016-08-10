@@ -207,6 +207,12 @@ Pull requests welcome! Or add an issue, or tweet
 - [Yihui Xie](http://yihui.name/), [@xieyihui](https://twitter.com/xieyihui),
 [Reproducibility in Statistics and Data Science (Discussion)](https://dl.dropboxusercontent.com/u/15335397/slides/2016-repro-JSM-Yihui-Xie.html#(1))
 
+#### [486 Estimating the Properties of Physical Time Series by Leveraging the Power of Spectral Analysis](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212827)
+
+- [Wesley S. Burr](http://www.wesleyburr.com), [@wsburr](https://twitter.com/wsburr), [Phase as Lag: Synthetic Lag Models for Risk Estimation in Environmental Epidemiology](https://wesleyburr.github.io/Talk_JSM2016/)
+
+- [Josh Pohlkamp-Hartt](https://www.linkedin.com/in/jpohlkamphartt), [Extraction of Atrial Signals From Electrocardiograms](https://github.com/wesleyburr/Talk_JSM2016/blob/master/JSM%202016%20JPohlkampHartt.pdf)
+
 #### [492 SPEED: Advances in Survey Research Methodology](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=213155)
 
 - Stanislav Kolenikov, [@StatStas](https://twitter.com/StatStas),
