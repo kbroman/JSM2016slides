@@ -37,7 +37,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [MyoungJin Kim](http://nursing.illinoisstate.edu/faculty-staff/profile.php?ulid=mkim2), [Technology](http://bit.ly/MJKjsm2016)
 
-- [Todd Schwartz](http://sph.unc.edu/adv_profile/todd-schwartz-drph/), [Datasets](http://bit.ly/TSjsm2016)
+- [Todd Schwartz](http://sph.unc.edu/adv_profile/todd-schwartz-drph/), [Datasets](http://bit.ly/TSjsm2016v2)
 
 - [Mike Jiroutek](http://www.campbell.edu/cphs/faculty/faculty-members/michael-r.-jiroutek), [Pedagogy](http://bit.ly/MRJjsm2016)
 
