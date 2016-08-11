@@ -224,6 +224,10 @@ Pull requests welcome! Or add an issue, or tweet
 
 ### 10:30am - 12:20pm
 
+#### [520 Machine Learning in Econometrics](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212663)
+
+- [Qingyuan Zhao](http://web.stanford.edu/~qyzhao/) [Causal Interpretations of Black-Box Models](http://web.stanford.edu/~qyzhao/papers/pdp_slides.pdf)
+
 #### [526 The 2016 Statistical Computing and Graphics Award Honors William S. Cleveland](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212769)
 
 - [Dianne Cook](http://dicook.github.io/), [@visnut](https://twitter.com/visnut), Modern Crowd-Sourcing Validates Cleveland's 1984 Hierarchy of Graphical Elements \[[survey](http://bit.ly/JSM-vis16) | [results](http://visiphilia.org/2016/08/03/CM-hierarchy)\]
