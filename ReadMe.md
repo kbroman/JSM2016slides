@@ -141,7 +141,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 #### [288 Economic and Business Applications in High-Dimensional Big Data Contexts](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=212479)
 
-- [Christian Hansen](http://www.chicagobooth.edu/faculty/directory/h/christian-b-hansen), [Double Machine Learning for Treatment and Causal Parameters](https://github.com/kbroman/JSM2016slides/tree/mater/slides/slides_MLInf_7_25_16_CH.pdf) [[arxiv](https://arxiv.org/abs/1608.00060v1)]
+- [Christian Hansen](http://www.chicagobooth.edu/faculty/directory/h/christian-b-hansen), [Double Machine Learning for Treatment and Causal Parameters](https://github.com/kbroman/JSM2016slides/blob/master/slides/slides_MLInf_7_25_16_CH.pdf)[[arxiv](https://arxiv.org/abs/1608.00060v1)]
 
 ### 10:30am - 12:20pm
 
