@@ -4,8 +4,7 @@ Links to slides to talks at the 2016
 [Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2016/)
 in Chicago, Illinois.
 
-Pull requests welcome! Or add an issue, or tweet
-[@kwbroman](https://twitter.com/kwbroman) or email
+Pull requests welcome! Or add an issue or email
 [Karl Broman](http://kbroman.org).
 
 ## Sunday, 31 July
@@ -193,7 +192,7 @@ Pull requests welcome! Or add an issue, or tweet
 - [Jenny Bryan](http://stat545.com), [@jennybryan](https://twitter.com/jennybryan),
 [Reproducibility for All and Our Love/Hate Relationship with Spreadsheets](https://github.com/jennybc/2016-06_spreadsheets#readme)
 
-- [Karl Broman](http://kbroman.org), [@kwbroman](https://twitter.com/kwbroman),
+- [Karl Broman](http://kbroman.org),
 [Steps Toward Reproducible Research](http://bit.ly/jsm2016)
 
 - [Karthik Ram](http://karthik.io/),
